@@ -18,7 +18,7 @@ const Home = () => {
 
         <Link to="/register">
           <button className="bg-white text-pink-600 font-semibold px-8 py-3 rounded-full shadow-lg hover:scale-105 transition duration-300">
-            Get Started Free
+            Get Started Now !!
           </button>
         </Link>
       </section>
@@ -32,7 +32,7 @@ const Home = () => {
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           
           <div className="bg-white p-8 rounded-2xl shadow-md hover:shadow-xl transition">
-            <h3 className="text-xl font-semibold mb-4">📅 Smart Cycle Prediction</h3>
+            <h3 className="text-xl font-semibold mb-4">Smart Cycle Prediction</h3>
             <p className="text-gray-600">
               AI calculates your average cycle and predicts your next period
               with high accuracy.
@@ -40,7 +40,7 @@ const Home = () => {
           </div>
 
           <div className="bg-white p-8 rounded-2xl shadow-md hover:shadow-xl transition">
-            <h3 className="text-xl font-semibold mb-4">🧠 Mood Analysis</h3>
+            <h3 className="text-xl font-semibold mb-4">Mood Analysis</h3>
             <p className="text-gray-600">
               Understand emotional patterns and hormonal changes with
               intelligent insights.
@@ -48,7 +48,7 @@ const Home = () => {
           </div>
 
           <div className="bg-white p-8 rounded-2xl shadow-md hover:shadow-xl transition">
-            <h3 className="text-xl font-semibold mb-4">📊 Personalized Reports</h3>
+            <h3 className="text-xl font-semibold mb-4"> Personalized Reports</h3>
             <p className="text-gray-600">
               Get monthly health summaries tailored to your body.
             </p>
@@ -76,7 +76,7 @@ const Home = () => {
             <div className="text-3xl mb-4">2️⃣</div>
             <p className="font-semibold">AI Analyzes Data</p>
             <p className="text-gray-500 mt-2">
-              Machine learning calculates patterns.
+               Calculates patterns.
             </p>
           </div>
 

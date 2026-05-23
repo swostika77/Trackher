@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from "../assets/logo.png";
-// import { GoogleLogin } from "@react-oauth/google";
+
 
 const Login = () => {
   const [formData, setFormData] = useState({
